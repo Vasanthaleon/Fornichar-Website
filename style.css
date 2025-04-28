@@ -1,0 +1,516 @@
+*{margin: 0;
+    padding: 0;}
+    
+    .file{
+        background-color: darkcyan ;
+        background-image: url(couch.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        width: 100%;
+        height: 80vh;
+      
+    }
+    
+    .one{
+        width: 100%;
+        display: flex;
+    }
+    .col-1{
+        width: 50%;
+        color: white;
+        padding-left: 100px;
+        padding-top: 30px;
+    }
+    .col-2{
+        width: 50%;
+       
+    }
+    
+    
+    .col-2 li{
+        list-style-type: none;
+        display: inline;
+        padding: 15px;
+     
+    }
+    .col-2 ol{
+        padding-top: 30px;
+    }
+    
+    .v1,.v2{
+        position: relative;
+        top: 10px;
+        font-size: 30px;
+        padding-left: 15px;
+        
+    }
+    
+    .tow{
+        width: 100%;
+        display: flex;
+    }
+    .col-11{
+        position: relative;
+        bottom: 550px;
+        padding-left: 100px;
+        padding-top: 100px;
+        color: white;
+    
+    }
+    .blue{
+        width: 100%;
+        display: flex;
+    }
+    .col-12 button{
+        border: white;
+        background-color: yellow;
+        border-radius: 30px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 25px;
+        padding-right: 25px;
+       margin-right: 15px;
+    }
+    .col-13 button{
+        border: 1px solid white;
+        background-color: darkcyan;
+        border-radius: 30px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        padding-left: 25px;
+        padding-right: 25px;
+      
+    }
+    
+    .run{
+        width: 100%;
+        height: 80vh;
+        display: flex; 
+    }
+    
+    .t1{
+        width: 100%;
+        display: flex;
+        height: 70vh;
+        padding-top:50px;
+        
+    }
+    .col-30{
+        width: 30%;
+        position: relative;
+        left: 100px;
+    }
+    
+    .col-30 button{
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-radius: 30px;
+        background-color: black;
+        color: white;
+    }
+    
+    .col-30 p{
+        font-size: 17px;
+    }
+    .col-30 h1{
+        font-size: 30px;
+    }
+    
+    .t2{
+        width: 70%;
+        display: flex;
+        position: relative;
+       bottom: 10px;
+    }
+    
+    .col-31 img{
+        width: 300px;
+        height: 300px;
+       
+    }
+    .col-32 img{
+        width: 300px;
+        height: 300px;
+       
+    }
+    .col-32{
+        margin-left: 20px;
+    }
+    .col-33 img{
+        width: 300px;
+        height: 300px;
+    }
+    .col-33{
+        margin-left: 20px;
+    }
+    
+    .col-31 h3{
+    text-align: center;
+    }
+    .col-32 h3{
+        text-align: center;
+    }
+    .col-33 h3{
+        text-align: center;
+    }
+    
+    
+    
+    
+    .domnick{
+        width: 100%;
+        display: flex;
+        height: 100vh;
+    }
+    .col-111{
+        width: 50%;
+        padding-left: 100px;
+    }
+    .col-222{
+        width: 50%;
+    }
+    .col-222 img{
+        width: 600px;
+        height: 600px;
+        border-radius: 30px;
+        margin-left: 10px;
+    }
+    .col-111 .row-1001{
+        width: 100%;
+    }
+    .row-522{
+        width: 100%;
+        display: flex;
+    }
+    .row-522 .col-1002{
+        width: 50%;
+    }
+    .col-1003{
+        width: 50%;
+    }
+    .row-533{
+        width: 100%;
+        display: flex;
+    }
+    .row-533 .col-1004{
+        width: 50%;
+    }
+    .col-1005{
+        width: 50%;
+    }
+    
+    
+    .more{
+        width: 100%;
+        display: flex;
+        height: 130vh;
+    }
+    .leon{
+        width: 65%;
+        display: flex;
+        
+    }
+    .col-601 img{
+        position: static;
+        width: 500px;
+        height: 600px;
+        border-radius: 30px;
+        margin-left: 90px;
+    }
+    .col-p1 img{
+        width: 250px;
+        height: 250px;
+        border-radius: 20px;
+        margin-left: 20px;
+    }
+    
+    
+    
+     .col-p2 img{
+        position: relative;
+       width: 400px;
+       height: 500px;
+      right: 400px;
+      top: 270px;
+        border-radius: 20px;
+    }
+    
+    
+    .learn{
+        width: 35%;
+       position: relative;
+       right: 30px;  
+    }
+    
+    .col-701 .q1{
+        position: relative;
+        right: 30px;
+    } 
+    .col-702 .j1{
+        position: relative;
+        right: 30px;
+    } 
+    
+    .col-78 .col-602{
+        width: 100%;
+    }
+    .row-333 {
+        width: 100%;
+        display: flex;   
+    }
+    .col-701 p{
+        position: relative;
+        bottom: 20px;
+    }
+    .col-702 p{
+        position: relative;
+        bottom: 20px;
+    }
+    
+    .row-333 .col-701{
+        width: 50%;
+    }
+    .row-333 .col-702{
+        width: 50%;
+    }
+    .row-444{
+        width: 100%;
+        display: flex;
+    }
+    .row-444 .col-703{
+        width: 50%;
+    }
+    .row-444 .col-704{
+        width: 50%;
+    }
+    
+    .col-703 .o1{
+        position: relative;
+        right: 30px;
+    } 
+    .col-704 .k1{
+        position: relative;
+        right: 30px;
+    } 
+    .col-703 p{
+        position: relative;
+        bottom: 20px;
+    }
+    .col-704 p{
+        position: relative;
+        bottom: 20px;
+    }
+    
+    
+    
+    .manage{
+        width: 100%;
+        display: flex;
+        height: 40vh;
+    }
+    .col-560{
+        width: 33.33%;
+       display: flex;
+    }
+    .col-561{
+        width: 33.33%;
+        display: flex;
+    }
+    .col-562{
+        width: 33.33%;
+        display: flex;
+    }
+    .col-560 img{
+        width: 130px;
+        height: 130px;
+        background-color: rgb(227, 237, 241);
+        border-radius: 20px;
+        margin-left: 120px;
+    }
+    .col-561 img{
+        width: 130px;
+        height: 130px;
+        background-color: rgb(227, 237, 241);
+        border-radius: 30px;
+        margin-left: 70px;
+    
+        
+    }
+    .col-562 img{
+        width: 130px;
+        height: 130px;
+        background-color: rgb(227, 237, 241);
+        border-radius: 30px;
+        
+    }
+    .col-5601{
+        padding-left: 10px;
+        padding-top: 20px;
+    }
+    .col-5602{
+        padding-left: 10px;
+        padding-top: 20px;
+    }
+    .col-5603{
+        padding-left: 10px;
+        padding-top: 20px;
+    }
+    
+    
+    .n1{
+        width: 100%;
+        height: 70vh;
+    }
+    .row-85{
+        text-align: center;
+    }
+    .row-85 p{
+        padding-top: 50px;
+        font-size: 20px;
+    }
+    .row-85 img{
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        margin-top: 30px;
+    }
+    .row-85 h1{
+        padding-top: 20px;
+    }
+    .row-85 h6{
+        padding-top: 5px;
+    }
+    
+    
+    
+    
+    .row-1201{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        height: 65vh;
+    }
+    
+    .row-1201 img{
+        width: 400px;
+        height: 300px;
+        border-radius: 30px;
+        margin-top: 50px;
+    }
+    .row-12023{
+        position: relative;
+        left: 20px;
+    }
+    .row-12021{
+        position: relative;
+        right:20px;
+    }
+    .row-12022{
+         position: relative;
+       top: 25px;
+    }
+    .row-12023{
+        position: relative;
+       top: 25px;
+    }
+    
+    .mode{
+        width: 100px;
+        height: 60vh;
+        display: flex;
+        margin-top: 50px;
+    }
+    .row-512 img{
+        width: 400px;
+        height: 375px;
+        margin-left: 1000px;
+    }
+    
+    .row-513{
+        position: relative;
+        bottom: 150px;
+        padding-left: 100px;
+    }
+    .row-513 i{
+        position: relative;
+        top: 2px;
+        right: 5px;
+    }
+    .row-512 h2{
+      padding-left: 10px;
+    }
+    
+    input{
+        width: 300px;
+        height: 40px;
+        border-radius: 10px;
+        margin: 5px;
+    }
+    ::placeholder{
+        padding-left: 10px;
+        
+    }
+    
+    
+    .row-710{
+        width: 100%;
+        height:40vh;
+       display: flex;
+    }
+    .col-711{
+        width: 35%;
+        padding-left: 100px;
+    }
+    .col-711 p{
+        padding-top: 30px;
+    }
+    .col-712{
+        width: 15%;
+    }
+    .col-713{
+        width: 15%;
+    }
+    .col-714{
+        width: 15%;
+    }
+    .col-715{
+        width: 20%;
+    }
+    .row-710 li{
+        list-style-type: none;
+    }
+    .row-710 ol{
+        position: relative;
+        top: 55px;
+    }
+    
+    
+    .z1{
+        width: 100%;
+        height:20vh;
+    }
+    .z1 hr{
+        width: 1300px;
+        margin-left: 100px;
+    }
+    .col-351 p{
+        padding-left:100px;
+        position: relative;
+        top: 20px;
+    }
+    
+    .col-352{
+        display: flex;
+        position: relative;
+        bottom: 40px;
+       
+    }
+    .col-352 li{
+        position: relative;
+        list-style-type: none;
+        padding: 50px;
+        left: 1025px;
+        bottom: 20px; 
+    }
